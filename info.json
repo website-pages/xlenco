@@ -1,0 +1,749 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://anzhiy.cn/about/",
+            "path": "index.html",
+            "saved": true,
+            "size": 93499,
+            "children": [
+                {
+                    "url": "https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/carousel-touch.js",
+                    "path": "js/carousel-touch.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.0.8/js/utils.js",
+                    "path": "js/utils.js",
+                    "saved": true,
+                    "size": 7968,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.0.5/js/main.js",
+                    "path": "js/main.js",
+                    "saved": true,
+                    "size": 13739,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-theme-butterfly@latest/source/js/tw_cn.js",
+                    "path": "js/tw_cn.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/@fancyapps/ui@latest/dist/fancybox.umd.js",
+                    "path": "js/fancybox.umd.js",
+                    "saved": true,
+                    "size": 105252,
+                    "children": []
+                },
+                {
+                    "url": "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/instant.page/5.1.0/instantpage.min.js",
+                    "path": "js/instantpage.min.js",
+                    "saved": true,
+                    "size": 3683,
+                    "children": []
+                },
+                {
+                    "url": "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/vanilla-lazyload/17.3.1/lazyload.iife.min.js",
+                    "path": "js/lazyload.iife.min.js",
+                    "saved": true,
+                    "size": 7367,
+                    "children": []
+                },
+                {
+                    "url": "https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/node-snackbar/0.1.16/snackbar.min.js",
+                    "path": "js/snackbar.min.js",
+                    "saved": true,
+                    "size": 3468,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/js/search/local-search.js",
+                    "path": "js/local-search.js",
+                    "saved": true,
+                    "size": 12058,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/js/console/console.js",
+                    "path": "js/console.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/js/diytitle.js",
+                    "path": "js/diytitle.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 89664,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.1/js/rightmenu/rightmenu.js",
+                    "path": "js/rightmenu.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.1/js/commentBarrage/commentBarrage.js",
+                    "path": "js/commentBarrage.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/pace-js@1.2.4/pace.min.js",
+                    "path": "js/pace.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.1/js/catalog-bar/catalog-bar.js",
+                    "path": "js/catalog-bar.js",
+                    "saved": true,
+                    "size": 750,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.1/js/categoryBar/categoryBar.js",
+                    "path": "js/categoryBar.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/js/custom.js",
+                    "path": "js/custom.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@1.1.6/js/swiper.min.js",
+                    "path": "js/swiper.min.js",
+                    "saved": true,
+                    "size": 139020,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/js/waterfall/waterfall.js",
+                    "path": "js/waterfall.js",
+                    "saved": true,
+                    "size": 1155,
+                    "children": []
+                },
+                {
+                    "url": "https://sdk.51.la/js-sdk-pro.min.js",
+                    "path": "js/js-sdk-pro.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://sdk.51.la/perf/js-sdk-perf.min.js",
+                    "path": "js/js-sdk-perf.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/butterfly-extsrc@latest/dist/activate-power-mode.min.js",
+                    "path": "js/activate-power-mode.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js",
+                    "path": "js/APlayer.min.js",
+                    "saved": true,
+                    "size": 59325,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/butterfly-extsrc@latest/metingjs/dist/Meting.min.js",
+                    "path": "js/Meting.min.js",
+                    "saved": true,
+                    "size": 1967,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/pjax@latest/pjax.min.js",
+                    "path": "js/pjax.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js",
+                    "path": "js/busuanzi.pure.mini.js",
+                    "saved": true,
+                    "size": 1939,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.0.4/assets/js/fetch.js",
+                    "path": "js/fetch.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.0.4/assets/js/random-friends-post.js",
+                    "path": "js/random-friends-post.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0",
+                    "path": "js/he-simple-common.js",
+                    "saved": true,
+                    "size": 400,
+                    "children": []
+                },
+                {
+                    "url": "https://jsd.anzhiy.cn/npm/hexo-butterfly-clock-anzhiyu@1.1.7/lib/clock.min.js",
+                    "path": "js/clock.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.0.4/js/runtime/runtime.min.js",
+                    "path": "js/runtime.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.cbd.int/hexo-butterfly-swiper-anzhiyu-pro@1.0.1/lib/swiper_init.js",
+                    "path": "js/swiper_init.js",
+                    "saved": true,
+                    "size": 573,
+                    "children": []
+                },
+                {
+                    "url": "https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/gsap/3.9.1/gsap.min.js",
+                    "path": "js/gsap.min.js",
+                    "saved": true,
+                    "size": 64148,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.0.9/js/people/people.js",
+                    "path": "js/people.js",
+                    "saved": true,
+                    "size": 4692,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/anzhiyu/random.js",
+                    "path": "js/random.js",
+                    "saved": true,
+                    "size": 737,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-butterfly-wowjs/lib/wow.min.js",
+                    "path": "js/wow.min.js",
+                    "saved": true,
+                    "size": 8155,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-butterfly-wowjs/lib/wow_init.js",
+                    "path": "js/wow_init.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.js",
+                    "path": "js/gitcalendar.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/js/ali_font.js",
+                    "path": "js/ali_font.js",
+                    "saved": true,
+                    "size": 83847,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/css/index.css",
+                    "path": "css/index.css",
+                    "saved": true,
+                    "size": 207593,
+                    "children": [
+                        {
+                            "url": "https://anzhiy.cn/img/comment_bg.png",
+                            "path": "img/comment_bg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://image.anzhiy.cn/adminuploads/1/2022/09/23/632d634f8376d.jpg",
+                            "path": "img/632d634f8376d.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://image.anzhiy.cn/adminuploads/1/2022/09/24/632e6f48981d8.jpg",
+                            "path": "img/632e6f48981d8.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://image.anzhiy.cn/adminuploads/1/2022/09/26/6330ebf1f3e65.jpg",
+                            "path": "img/6330ebf1f3e65.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://image.anzhiy.cn/adminuploads/1/2022/09/05/6315e14a2f639.webp",
+                            "path": "img/6315e14a2f639.webp",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://image.anzhiy.cn/adminuploads/1/2022/09/25/632fb9cecfc8c.png",
+                            "path": "img/632fb9cecfc8c.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/violet.jpg",
+                            "path": "img/violet.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://image.anzhiy.cn/adminuploads/1/2022/09/24/632f0dd8f33c6.webp",
+                            "path": "img/632f0dd8f33c6.webp",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg",
+                            "path": "img/79164837213438.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://yuanshen.site/imgs/loading-bar.png",
+                            "path": "img/loading-bar.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.0.4/fonts/ZhuZiAWan.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://anzhiy.cn/img/x1.cur",
+                            "path": "css/x1.cur",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://anzhiy.cn/img/x2.cur",
+                            "path": "css/x2.cur",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://jsd.anzhiy.cn/npm/anzhiyu-blog@2.1.1/img/avatar.webp",
+                            "path": "img/avatar.webp",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://image.anzhiy.cn/adminuploads/1/2022/09/27/633297ed8738d.jpg",
+                            "path": "img/633297ed8738d.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://image.anzhiy.cn/adminuploads/1/2022/09/11/631ddb7c9b250.png",
+                            "path": "img/631ddb7c9b250.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://image.anzhiy.cn/adminuploads/1/2022/09/11/631ddeb0900b7.png",
+                            "path": "img/631ddeb0900b7.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://image.anzhiy.cn/adminuploads/1/2022/08/21/630249e2df20f.jpg",
+                            "path": "img/630249e2df20f.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/css/all.min.css",
+                    "path": "css/all.min.css",
+                    "saved": true,
+                    "size": 500330,
+                    "children": [
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-brands-400.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-brands-400.ttf",
+                            "path": "fonts/fa-brands-400.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-duotone-900.woff2",
+                            "path": "fonts/fa-duotone-900.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-duotone-900.ttf",
+                            "path": "fonts/fa-duotone-900.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-light-300.woff2",
+                            "path": "fonts/fa-light-300.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-light-300.ttf",
+                            "path": "fonts/fa-light-300.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-regular-400.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-regular-400.ttf",
+                            "path": "fonts/fa-regular-400.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-solid-900.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-solid-900.ttf",
+                            "path": "fonts/fa-solid-900.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-thin-100.woff2",
+                            "path": "fonts/fa-thin-100.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-thin-100.ttf",
+                            "path": "fonts/fa-thin-100.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-v4compatibility.woff2",
+                            "path": "fonts/fa-v4compatibility.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://npm.elemecdn.com/anzhiyu-blog@2.1.0/fonts/fontawesome/webfonts/fa-v4compatibility.ttf",
+                            "path": "fonts/fa-v4compatibility.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/node-snackbar/0.1.16/snackbar.min.css",
+                    "path": "css/snackbar.min.css",
+                    "saved": true,
+                    "size": 1279,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/@fancyapps/ui@latest/dist/fancybox.css",
+                    "path": "css/fancybox.css",
+                    "saved": true,
+                    "size": 15598,
+                    "children": []
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css?family=Titillium+Web&display=swap",
+                    "saved": false
+                },
+                {
+                    "url": "https://jsd.anzhiy.cn/npm/hexo-butterfly-clock-anzhiyu@1.1.7/lib/clock.min.css",
+                    "path": "css/clock.min.css",
+                    "saved": true,
+                    "size": 19468,
+                    "children": [
+                        {
+                            "url": "https://cdn.cbd.int/anzhiyu-blog@1.1.6/fonts/UnidreamLED.ttf",
+                            "path": "fonts/UnidreamLED.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://jsd.anzhiy.cn/npm/hexo-butterfly-clock-anzhiyu@1.1.7/lib/fonts/qweather-icons.woff2?5bb5b475709c49961682eda055eb3dc5",
+                            "path": "fonts/qweather-icons.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://jsd.anzhiy.cn/npm/hexo-butterfly-clock-anzhiyu@1.1.7/lib/fonts/qweather-icons.woff?5bb5b475709c49961682eda055eb3dc5",
+                            "path": "fonts/qweather-icons.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://jsd.anzhiy.cn/npm/hexo-butterfly-clock-anzhiyu@1.1.7/lib/fonts/qweather-icons.ttf?5bb5b475709c49961682eda055eb3dc5",
+                            "path": "fonts/qweather-icons.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.0.4/css/runtime/runtime.css",
+                    "path": "css/runtime.css",
+                    "saved": true,
+                    "size": 672,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-butterfly-swiper-anzhiyu@1.0.4/lib/swiper.min.css",
+                    "path": "css/swiper.min.css",
+                    "saved": true,
+                    "size": 19582,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-butterfly-swiper-anzhiyu-pro@1.0.6/lib/swiperstyle.css",
+                    "path": "css/swiperstyle.css",
+                    "saved": true,
+                    "size": 14615,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-butterfly-swiper-anzhiyu-pro@1.0.6/lib/categoryGroup.css",
+                    "path": "css/categoryGroup.css",
+                    "saved": true,
+                    "size": 2359,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-butterfly-wowjs/lib/animate.min.css",
+                    "path": "css/animate.min.css",
+                    "saved": true,
+                    "size": 71750,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.css",
+                    "path": "css/gitcalendar.css",
+                    "saved": true,
+                    "size": 3045,
+                    "children": []
+                },
+                {
+                    "url": "https://jsd.anzhiy.cn/npm/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css",
+                    "path": "css/font-awesome-animation.min.css",
+                    "saved": true,
+                    "size": 19464,
+                    "children": []
+                },
+                {
+                    "url": "https://jsd.anzhiy.cn/npm/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css",
+                    "path": "css/tag_plugins.css",
+                    "saved": true,
+                    "size": 42117,
+                    "children": [
+                        {
+                            "url": "https://unpkg.zhimg.com/akilar-candyassets/fonts/Poem.ttf",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css",
+                    "path": "css/APlayer.min.css",
+                    "saved": true,
+                    "size": 12528,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/img/favicon.png",
+                    "path": "img/favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/img/siteicon/128.png",
+                    "path": "img/128.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/img/siteicon/32.png",
+                    "path": "img/32.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://anzhiy.cn/img/siteicon/16.png",
+                    "path": "img/16.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/siteicon/apple-touch-icon.png",
+                    "path": "img/apple-touch-icon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.anzhiy.cn/adminuploads/1/2022/09/15/63232c8836790.jpg",
+                    "path": "img/63232c8836790.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "anzhiy-cn-ulry0cor",
+    "info": {
+        "remark": [],
+        "title": "关于 | 安知鱼",
+        "domain": "anzhiy.cn",
+        "origin": "https://anzhiy.cn",
+        "ip": "117.34.13.40",
+        "main": "index.html",
+        "url": "https://anzhiy.cn/about/",
+        "totalSize": "1.63 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://anzhiy.cn/about/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://anzhiy.cn/about/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "content-type": "text/html",
+                "date": "Sun, 09 Oct 2022 14:14:23 GMT",
+                "etag": "W/\"63427a81-187fc\"",
+                "last-modified": "Sun, 09 Oct 2022 07:38:41 GMT",
+                "server": "yunjiasu",
+                "set-cookie": [
+                    "__yjs_duid=1_5040432609ade0ec72b8bef3b4d519b51665324863821; expires=Tue, 08-Oct-24 14:14:23 GMT; Path=/; Domain=anzhiy.cn; HttpOnly; Secure"
+                ],
+                "strict-transport-security": "max-age=31536000",
+                "vary": "Accept-Encoding",
+                "yjs-id": "bbf2c17e6ab434bf-135",
+                "connection": "close",
+                "transfer-encoding": "chunked"
+            }
+        },
+        "time": {
+            "start": "2022-10-09T14:14:23.088Z",
+            "end": "2022-10-09T14:16:59.621Z"
+        }
+    },
+    "options": {
+        "url": "https://anzhiy.cn/about/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [
+            "html",
+            "css",
+            "js"
+        ],
+        "filenameGenerator": "byType"
+    }
+}
